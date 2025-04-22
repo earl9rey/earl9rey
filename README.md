@@ -1,5 +1,5 @@
 ## 🌈 Sungha Cho
-> 🏫 Sookmyung Women's University IT engineering  
+> 🏫 Studying IT engineering  
 > 🪐 FE Developer
 
 <br/>
