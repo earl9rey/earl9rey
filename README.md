@@ -1,4 +1,4 @@
-## 🌈 Sungha Cho
+## Sungha Cho
 > 🏫 Studying IT engineering  
 > 🪐 FE Developer
 
